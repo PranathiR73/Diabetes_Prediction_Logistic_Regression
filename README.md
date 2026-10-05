@@ -1,4 +1,4 @@
-# Minor Project 3: Diabetes Prediction using Logistic Regression
+## Minor Project 3: Diabetes Prediction using Logistic Regression
 
 ## 🚀 Internship Overview
 * **Program:** Machine Learning Internship Program
